@@ -1,0 +1,9 @@
+.wrap {
+  padding: 24px;
+  width: 600px;
+  margin: 0 auto;
+
+}
+.wrap h2{
+  text-align: center;
+}
